@@ -1,0 +1,4 @@
+Place a file named "DatabaseConfig.txt" in this folder. The entire contents of that file should be:
+<database address>
+<database username>
+<database password>
