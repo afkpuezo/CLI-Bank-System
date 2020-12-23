@@ -1,5 +1,5 @@
-**Description** </b>
-A solo project leveraging Java 8, create an application that simulates simple banking transactions.
+**Description**
+* A solo project leveraging Java 8, create an application that simulates simple banking transactions.
 
 **Features**
 *	Developed using Java 8
