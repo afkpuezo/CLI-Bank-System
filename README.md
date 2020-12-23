@@ -21,8 +21,5 @@ A solo project leveraging Java 8, create an application that simulates simple ba
 **Technologies**
 * Java
 * Junit
-* Mockito
-* Servlets
-* HTML
-* Hibernate
+* JDBC
 * PostgreSQL
